@@ -1,7 +1,5 @@
 Flask==2.0.1
+Werkzeug==2.0.1
 gunicorn==20.1.0
-numpy==1.22.4
-pandas==1.4.2
-scikit-learn==1.1.1
-matplotlib==3.5.2
-# 添加你的应用实际需要的其他依赖包
+# 添加你应用需要的其他依赖
+# 如果你使用了SQLAlchemy、pandas、numpy等，也要添加
